@@ -1,0 +1,1 @@
+Tasked with making the website more in line with today's web standards.  I took the source code of the website and applied modern accessibility standards and semantic HTML.  I made sure to include alt tags that were missing from the images used on the website.  Cleaned up the code where possible. 
